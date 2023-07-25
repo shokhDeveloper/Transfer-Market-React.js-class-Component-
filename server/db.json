@@ -1,0 +1,32 @@
+{
+  "players": [
+    {
+      "firstname": "Mbappe",
+      "age": 23,
+      "club": "PSG",
+      "price": 160,
+      "id": 1
+    },
+    {
+      "firstname": "Salah",
+      "age": 29,
+      "club": "Liverpool",
+      "price": 160,
+      "id": 2
+    },
+    {
+      "firstname": "Lukaku",
+      "age": 28,
+      "club": "Chelsea",
+      "price": 100,
+      "id": 3
+    },
+    {
+      "firstname": "Neymar",
+      "age": 30,
+      "club": "PSG",
+      "price": 90,
+      "id": 4
+    }
+  ]
+}
