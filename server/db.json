@@ -27,6 +27,13 @@
       "club": "PSG",
       "price": 90,
       "id": 4
+    },
+    {
+      "firstname": "None",
+      "age": 7,
+      "price": 7,
+      "club": "None",
+      "id": 5
     }
   ]
 }
